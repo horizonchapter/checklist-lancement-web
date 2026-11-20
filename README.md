@@ -1,3 +1,7 @@
+> **Ce dépôt est archivé et remplacé par [publication-sure](https://github.com/horizonchapter/publication-sure).**
+> publication-sure reprend la checklist complète (sécurité, RGPD, vente, SEO, tests réels) et la fait tourner pour de vrai : scan de secrets, sondes locales, contrôle légal FR/UE, Lighthouse et liens, avec un verdict PRÊT / À CORRIGER / BLOQUÉ. Ce dépôt reste lisible en lecture seule.
+> *Archived: replaced by [publication-sure](https://github.com/horizonchapter/publication-sure).*
+
 <p align="center">
   <img src="assets/banner.png" alt="Checklist de lancement web : tout vérifier avant de publier" width="100%">
 </p>
